@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoDbContext", "DynamoDbContext\DynamoDbContext.csproj", "{9CE5DE42-872E-4E99-9E6A-2658EF8BDDD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pioneer.BusinessEntities", "Pioneer.BusinessEntities\Pioneer.BusinessEntities.csproj", "{5DDAB2EA-2F69-4A35-A3CA-065E648DC095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pioneer.BusinessServices", "Pioneer.BusinessServices\Pioneer.BusinessServices.csproj", "{62E97952-5FDF-4A41-951C-DD2FAE3C79D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pioneer.CloudPattern.AWS", "Pioneer.CloudPattern.AWS\Pioneer.CloudPattern.AWS.csproj", "{2220F456-743B-4EDF-814D-D8E6E88A35DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pioneer.Utilities", "Pioneer.Utilities\Pioneer.Utilities.csproj", "{998D78CE-1B19-4523-A58B-55DA19504E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbContext.Test", "DbContext.Test\DbContext.Test.csproj", "{8CE2219F-CDC6-4017-97BF-96727CA4DF8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pioneer.CustomerPortal.Api", "Pioneer.CustomerPortal.Api\Pioneer.CustomerPortal.Api.csproj", "{54C863EB-55EE-4604-AED0-E878F66B269D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pioneer.CustomerPortal.Api.Tests", "Pioneer.CustomerPortal.Api.Tests\Pioneer.CustomerPortal.Api.Tests.csproj", "{3D3F6CFD-9829-4EA1-B1DF-0EB4985FBDE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pioneer.CustomerModule", "Pioneer.CustomerModule\Pioneer.CustomerModule.csproj", "{6CDBF423-5962-4CB2-AF74-F5084371C96A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pioneer.DataBaseServices", "Pioneer.DataBaseServices\Pioneer.DataBaseServices.csproj", "{7F1245BD-0BE1-4C7A-9B54-FAD8A1B0BABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pioneer.UserModule", "Pioneer.UserModule\Pioneer.UserModule.csproj", "{694E190E-63F8-4B92-94C2-50AC23899D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE5DE42-872E-4E99-9E6A-2658EF8BDDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE5DE42-872E-4E99-9E6A-2658EF8BDDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE5DE42-872E-4E99-9E6A-2658EF8BDDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE5DE42-872E-4E99-9E6A-2658EF8BDDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DDAB2EA-2F69-4A35-A3CA-065E648DC095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDAB2EA-2F69-4A35-A3CA-065E648DC095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDAB2EA-2F69-4A35-A3CA-065E648DC095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDAB2EA-2F69-4A35-A3CA-065E648DC095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E97952-5FDF-4A41-951C-DD2FAE3C79D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E97952-5FDF-4A41-951C-DD2FAE3C79D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E97952-5FDF-4A41-951C-DD2FAE3C79D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E97952-5FDF-4A41-951C-DD2FAE3C79D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2220F456-743B-4EDF-814D-D8E6E88A35DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2220F456-743B-4EDF-814D-D8E6E88A35DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2220F456-743B-4EDF-814D-D8E6E88A35DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2220F456-743B-4EDF-814D-D8E6E88A35DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{998D78CE-1B19-4523-A58B-55DA19504E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998D78CE-1B19-4523-A58B-55DA19504E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998D78CE-1B19-4523-A58B-55DA19504E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998D78CE-1B19-4523-A58B-55DA19504E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE2219F-CDC6-4017-97BF-96727CA4DF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE2219F-CDC6-4017-97BF-96727CA4DF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE2219F-CDC6-4017-97BF-96727CA4DF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE2219F-CDC6-4017-97BF-96727CA4DF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54C863EB-55EE-4604-AED0-E878F66B269D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C863EB-55EE-4604-AED0-E878F66B269D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C863EB-55EE-4604-AED0-E878F66B269D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C863EB-55EE-4604-AED0-E878F66B269D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3F6CFD-9829-4EA1-B1DF-0EB4985FBDE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3F6CFD-9829-4EA1-B1DF-0EB4985FBDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3F6CFD-9829-4EA1-B1DF-0EB4985FBDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3F6CFD-9829-4EA1-B1DF-0EB4985FBDE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CDBF423-5962-4CB2-AF74-F5084371C96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDBF423-5962-4CB2-AF74-F5084371C96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDBF423-5962-4CB2-AF74-F5084371C96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDBF423-5962-4CB2-AF74-F5084371C96A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F1245BD-0BE1-4C7A-9B54-FAD8A1B0BABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1245BD-0BE1-4C7A-9B54-FAD8A1B0BABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1245BD-0BE1-4C7A-9B54-FAD8A1B0BABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1245BD-0BE1-4C7A-9B54-FAD8A1B0BABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694E190E-63F8-4B92-94C2-50AC23899D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694E190E-63F8-4B92-94C2-50AC23899D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694E190E-63F8-4B92-94C2-50AC23899D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694E190E-63F8-4B92-94C2-50AC23899D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8265AE3C-6ABF-4281-9ADF-7982F927C691}
+	EndGlobalSection
+EndGlobal

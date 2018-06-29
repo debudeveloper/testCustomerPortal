@@ -1,0 +1,15 @@
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.CloudPattern.AWS\bin\Debug\Pioneer.CloudPattern.AWS.dll
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.CloudPattern.AWS\bin\Debug\Pioneer.CloudPattern.AWS.pdb
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.CloudPattern.AWS\bin\Debug\AWSSDK.Core.dll
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.CloudPattern.AWS\bin\Debug\AWSSDK.DynamoDBv2.dll
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.CloudPattern.AWS\bin\Debug\AWSSDK.Core.pdb
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.CloudPattern.AWS\bin\Debug\AWSSDK.Core.xml
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.CloudPattern.AWS\bin\Debug\AWSSDK.DynamoDBv2.pdb
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.CloudPattern.AWS\bin\Debug\AWSSDK.DynamoDBv2.xml
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.CloudPattern.AWS\obj\Debug\Pioneer.CloudPattern.AWS.csproj.CoreCompileInputs.cache
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.CloudPattern.AWS\obj\Debug\Pioneer.CloudPattern.AWS.csproj.CopyComplete
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.CloudPattern.AWS\obj\Debug\Pioneer.CloudPattern.AWS.dll
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.CloudPattern.AWS\obj\Debug\Pioneer.CloudPattern.AWS.pdb
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.CloudPattern.AWS\obj\Debug\Pioneer.CloudPattern.AWS.csprojResolveAssemblyReference.cache
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.CloudPattern.AWS\bin\Debug\Pioneer.BusinessEntities.dll
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.CloudPattern.AWS\bin\Debug\Pioneer.BusinessEntities.pdb

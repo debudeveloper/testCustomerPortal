@@ -1,0 +1,12 @@
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.Utilities\bin\Debug\Pioneer.Utilities.dll
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.Utilities\bin\Debug\Pioneer.Utilities.pdb
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.Utilities\bin\Debug\AutoMapper.dll
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.Utilities\bin\Debug\System.ValueTuple.dll
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.Utilities\bin\Debug\AutoMapper.pdb
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.Utilities\bin\Debug\AutoMapper.xml
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.Utilities\bin\Debug\System.ValueTuple.xml
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.Utilities\obj\Debug\Pioneer.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.Utilities\obj\Debug\Pioneer.Utilities.csproj.CopyComplete
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.Utilities\obj\Debug\Pioneer.Utilities.dll
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.Utilities\obj\Debug\Pioneer.Utilities.pdb
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.Utilities\obj\Debug\Pioneer.Utilities.csprojResolveAssemblyReference.cache

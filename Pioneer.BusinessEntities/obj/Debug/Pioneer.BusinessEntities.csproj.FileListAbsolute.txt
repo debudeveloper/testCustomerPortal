@@ -1,0 +1,5 @@
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.BusinessEntities\bin\Debug\Pioneer.BusinessEntities.dll
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.BusinessEntities\bin\Debug\Pioneer.BusinessEntities.pdb
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.BusinessEntities\obj\Debug\Pioneer.BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.BusinessEntities\obj\Debug\Pioneer.BusinessEntities.dll
+C:\Users\deb_it\source\repos\Pioneer.CustomerPortal\Pioneer.BusinessEntities\obj\Debug\Pioneer.BusinessEntities.pdb
